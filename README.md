@@ -15,6 +15,7 @@ Temiz Kod Yapısı: React'ın en iyi uygulamaları takip edilerek oluşturulmuş
 
 Tailwind CSS: Hızlı ve esnek bir şekilde stil oluşturmanıza olanak tanır.
 
+![alt text](/public/image.png)
 Kullanılan Teknolojiler
 React.js
 
